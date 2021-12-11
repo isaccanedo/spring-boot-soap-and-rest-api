@@ -1,6 +1,6 @@
 # spring-boot-soap-and-rest
 
-### rest
+### REST
 ```bash
 http://localhost:80/test/get
 ```
